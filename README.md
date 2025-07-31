@@ -57,7 +57,7 @@ nids-knn/
 ### 1. Clone the repository
 
 
-git clone https://github.com/your-username/nids-knn.git
+git clone https://github.com/vvaishnavi1104/NIDS.git
 cd nids-knn
 
 
