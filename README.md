@@ -16,6 +16,10 @@ This project implements a **Network Intrusion Detection System (NIDS)** using ma
 - Simple **Flask-based web interface** for CSV file upload and prediction
 
 ---
+## 🧰 Tech Stack
+
+Python · Flask · scikit-learn · pandas · NSL-KDD Dataset · HTML (Jinja2)
+---
 
 ## 🧠 Algorithms Used
 
