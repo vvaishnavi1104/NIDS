@@ -19,6 +19,7 @@ This project implements a **Network Intrusion Detection System (NIDS)** using ma
 ## 🧰 Tech Stack
 
 Python · Flask · scikit-learn · pandas · NSL-KDD Dataset · HTML (Jinja2)
+
 ---
 
 ## 🧠 Algorithms Used
